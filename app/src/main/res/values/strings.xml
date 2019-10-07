@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">List App</string>
+    <string-array name="items">
+        <item>MacBook Pro</item>
+        <item>God of War (2018)</item>
+        <item>Randall Cunningham Kelly Green Jersey</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$2,399.00</item>
+        <item>$39.99</item>
+        <item>$79.99</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>New MacBook Pro to increase that work hustle.</item>
+        <item>Play as Kratos, the God of War, because I can\'t grow a beard in real-life.</item>
+        <item>Rockin\' those old-school colors worn by the best QB to step foot in the Vet.</item>
+    </string-array>
+
+</resources>
